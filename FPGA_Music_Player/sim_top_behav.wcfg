@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="sim_top_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="glbl" />
+            <top_module name="sim_top" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0.000 ns"></ZoomStartTime>
+      <ZoomEndTime time="3,705.001 ns"></ZoomEndTime>
+      <Cursor1Time time="14,925,394.507 ns"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="316"></NameColumnWidth>
+      <ValueColumnWidth column_width="118"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="13" />
+   <wvobject fp_name="/sim_top/clk" type="logic">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/sim_top/rst" type="logic">
+      <obj_property name="ElementShortName">rst</obj_property>
+      <obj_property name="ObjectShortName">rst</obj_property>
+   </wvobject>
+   <wvobject fp_name="/sim_top/btn" type="logic">
+      <obj_property name="ElementShortName">btn</obj_property>
+      <obj_property name="ObjectShortName">btn</obj_property>
+   </wvobject>
+   <wvobject fp_name="/sim_top/audio_out" type="logic">
+      <obj_property name="ElementShortName">audio_out</obj_property>
+      <obj_property name="ObjectShortName">audio_out</obj_property>
+   </wvobject>
+   <wvobject fp_name="/sim_top/dut/pwm_gen/value" type="array">
+      <obj_property name="ElementShortName">value[7:0]</obj_property>
+      <obj_property name="ObjectShortName">value[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/sim_top/dut/pwm_gen/counter" type="array">
+      <obj_property name="ElementShortName">counter[7:0]</obj_property>
+      <obj_property name="ObjectShortName">counter[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/sim_top/dut/phase1" type="array">
+      <obj_property name="ElementShortName">phase1[15:0]</obj_property>
+      <obj_property name="ObjectShortName">phase1[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/sim_top/dut/phase2" type="array">
+      <obj_property name="ElementShortName">phase2[15:0]</obj_property>
+      <obj_property name="ObjectShortName">phase2[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/sim_top/dut/phase3" type="array">
+      <obj_property name="ElementShortName">phase3[15:0]</obj_property>
+      <obj_property name="ObjectShortName">phase3[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/sim_top/dut/wave1" type="array">
+      <obj_property name="ElementShortName">wave1[3:0]</obj_property>
+      <obj_property name="ObjectShortName">wave1[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/sim_top/dut/wave2" type="array">
+      <obj_property name="ElementShortName">wave2[3:0]</obj_property>
+      <obj_property name="ObjectShortName">wave2[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/sim_top/dut/wave3" type="array">
+      <obj_property name="ElementShortName">wave3[3:0]</obj_property>
+      <obj_property name="ObjectShortName">wave3[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/sim_top/dut/wave4" type="array">
+      <obj_property name="ElementShortName">wave4[3:0]</obj_property>
+      <obj_property name="ObjectShortName">wave4[3:0]</obj_property>
+   </wvobject>
+</wave_config>

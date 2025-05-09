@@ -1,0 +1,4 @@
+Time resolution is 1 ps
+$finish called at time : 15000095 ns : File "C:/Users/alanj/Documents/UIUC 2024-25/Tetris-FPGA/audio_test/audio_test.srcs/sim_1/new/sim_top.sv" Line 69
+$finish called at time : 15000095 ns : File "C:/Users/alanj/Documents/UIUC 2024-25/Tetris-FPGA/audio_test/audio_test.srcs/sim_1/new/sim_top.sv" Line 69
+INFO: xsimkernel Simulation Memory Usage: 18136 KB (Peak: 18136 KB), Simulation CPU Usage: 132515 ms
